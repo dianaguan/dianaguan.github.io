@@ -1,0 +1,64 @@
+body{
+	background-color: lightblue;
+}
+h1{
+	font-size: 40px;
+	font-family: "Times New Roman", Times, serif;
+	text-align: center;
+}
+h2,h3{
+	padding: 20px;
+	font-size: 25px;
+	font-family: "Georgia", Times New Roman, serif;
+	font-style: cursive;
+	text-align: center;
+	margin-top: 30px;
+	text-align: center;
+	color: #1E6DBC;
+}
+		
+#Images{
+	text-align: center;
+	font-size: 20px;
+}
+#Background{
+	font-size: 25px;
+	text-align: center;
+	padding-left: 50px;
+	padding-right:50px;
+}
+#Links{
+  	color: blue;
+  	background-color: transparent;
+  	text-decoration: underline;
+  	text-align:center;
+}
+  		
+a:hover {
+  	color: black ;
+ 	background-color: yellow ;
+}
+
+/* 
+.container { position:relative; padding:0 0 0 55px; }
+#sidebar {
+    position:absolute;
+    top:0; bottom:0; left:0;
+    width:50px;
+    background:#000;
+}
+
+#header { border:1px solid #000; width:100px; height:20px; 
+    margin:0 0 5px 0;
+}
+#content { border:1px solid #000; width:100px; height:50px;
+    margin:5px 0 5px 0;
+}
+#footer { border:1px solid #000; width:100px; height:20px;
+    margin:5px 0 0 0;
+}
+ */
+
+		
+		
+
